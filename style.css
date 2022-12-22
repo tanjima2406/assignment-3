@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+ *{
+    margin: 0;
+    padding: 0;
+ }
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel-item img{
+    height: 584px;
+    object-fit: cover;
+}
+.carousel-item h5{
+    font-size: 48px;
+    font-weight: 600px;
+}
+.packeges h2{
+    font-size: 38px;
+    padding: 100px 0;
+}
+.packeges p{
+    color: rgba(132, 129, 153, 1);
+    font-size: 15px;
+}
+.packeges span{
+    color: rgba(132, 129, 153, 1);
+    font-size: 15px;
+}
+.packeges .btn{
+    background-color: rgba(244, 150, 209, 0.1)
+}
+.wedding-plus{
+    background-color: rgba(63, 135, 245, 1);
+    color: white;
+}
+.wedding-plus p{
+    color: white;
+}
+.wedding-plus span{
+    color: white;
+}
+.wedding-plus .btn{
+   background-color: white ;
+}
