@@ -29,16 +29,58 @@ body{
 .packeges .btn{
     background-color: rgba(244, 150, 209, 0.1)
 }
-.wedding-plus{
+.price-item{
     background-color: rgba(63, 135, 245, 1);
     color: white;
 }
-.wedding-plus p{
+.price-item p{
     color: white;
 }
-.wedding-plus span{
+.price-item span{
     color: white;
 }
-.wedding-plus .btn{
+.price-item .btn{
    background-color: white ;
+}
+.price-item{
+    position: relative;
+}
+.price-item{
+    transform: translateY(-50px);
+    padding: 80px 25px 25px;
+}
+.badge{
+    position: absolute;
+    top: -12px;
+    right: 15PX;
+}
+.review{
+    margin: 100px 0;
+}
+.review h2{
+    padding: 100px 0;
+}
+.card{
+    border: none;
+}
+.card img{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card span{
+    color: rgba(132, 129, 153, 1);
+}
+.card-text{
+    color: rgba(132, 129, 153, 1);
+}
+.faq{
+    margin: 100px 0;
+}
+.faq h2{
+    padding: 100px 0;
+}
+footer{
+    color: #D9DBE1;
+    padding: 80px 50px;
 }
