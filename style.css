@@ -80,6 +80,10 @@ body{
 .faq h2{
     padding: 100px 0;
 }
+.gift-box{
+    padding: 20px 30px;
+    border-left: 10px solid rgb(135, 153, 235);
+}
 footer{
     color: #D9DBE1;
     padding: 80px 50px;
